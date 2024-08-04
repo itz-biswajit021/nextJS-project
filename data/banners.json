@@ -1,0 +1,21 @@
+[
+  {
+    "id": 1,
+    "title": "Boost Your Leads",
+    "description": "Harness AI for Effective Campaigns",
+    "cta": "Learn More",
+    "image": "#FF5733",
+    "background": "/images/square.png",
+    "fontColor": "#ffffff"
+  },
+  {
+    "id": 2,
+    "title": "Get High Quality Leads",
+    "description": "Harness AI for Effective Campaigns",
+    "cta": "Learn More",
+    "image": "#33FF57",
+    "background": "/images/square1.png",
+    "fontColor": "#3F3737"
+  }
+
+]
